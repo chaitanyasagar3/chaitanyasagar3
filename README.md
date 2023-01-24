@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaitanyasagar3
-- 👀 I’m interested in internships.
+- 👀 I’m interested in Software Developer Job.
 - 🌱 I’m currently a Masters of Science(CS) student at NJIT.
 - 📫 How to reach me at chaitanyasagar98@gmail.com
 - I am good at building embedded systems, websites, programming problem solving and data analytics.
